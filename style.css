@@ -1,0 +1,41 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+html , body{
+    height: 100%;
+    width: 100%;
+    
+}
+
+#main{
+    height: 100%;
+    width: 100%;
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+.Shape{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+
+#heading{
+    text-align: center;
+    color: red;
+}
+
+h3{
+    color: blue;
+}
+
